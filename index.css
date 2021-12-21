@@ -1,0 +1,26 @@
+html, body {
+  margin: 0;
+  padding: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+#open-modal, #close-modal {
+  background: royalblue;
+  color: whitesmoke;
+  padding: 10px 20px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}
+
+#modal {
+  background: rgb(243, 198, 48);
+  padding: 20px;
+  height: 200px;
+  margin: 0 auto;
+  max-width: 600px;
+  border: solid greenyellow 10px;
+}
